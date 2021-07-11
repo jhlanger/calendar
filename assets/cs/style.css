@@ -3,6 +3,9 @@ body {
   font-size: 16px;
   line-height: 1;
 }
+p {
+  margin-top: 15px;
+}
 
 textarea{
   background: transparent;
@@ -30,11 +33,7 @@ textarea{
   border-radius: 15px;
 }
 
-.row {
-  white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;;
-}
+
 
 .hour {
   background-color: #ffffff;
@@ -69,3 +68,48 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.plannerDiv{  
+    
+  border-radius: 25px;
+  box-shadow: 2px black;
+}
+
+#text9AM {
+
+  border-radius: 5px;
+
+} 
+#text10AM {
+
+  border-radius: 5px;
+} 
+#text11AM {
+
+  border-radius: 5px;
+} 
+#text12AM {
+
+  border-radius: 5px;
+} 
+#text1PM {
+
+  border-radius: 5px;
+} 
+#text2PM {
+
+  border-radius: 5px;
+} 
+#text3PM {
+
+  border-radius: 5px;
+} 
+#text4PM {
+
+  border-radius: 5px;
+} 
+#text5PM {
+
+  border-radius: 5px;
+} 
+

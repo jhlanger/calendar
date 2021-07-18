@@ -53,6 +53,7 @@ $(document).ready(function () {
         localStorage.setItem("16PM", ($text4PM.val()))
         localStorage.setItem("17PM", ($text5PM.val()))
 
+
     })
 
     //getting the content stored and sending to the screen. When page is refreshed content will stay

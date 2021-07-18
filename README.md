@@ -11,7 +11,7 @@ This is a daily planner. It is designed to schedule events for the current day d
 * Java Script
 
 ## Website
-https://jhlanger.github.io/quiz/
+https://jhlanger.github.io/calendar/
 
 ## Contribution
 Made by Jonathon Langerman
